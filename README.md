@@ -16,7 +16,7 @@ The bootcamp cycle lasts for about a month and is divided into 3 stages
 Check out projects made with love by our SoC students
 
 ## Contributors
-(David Asamu)[https://github.com/phvash]
-(Tolu Fakiyesi)[https://github.com/tolufakiyesi]
-(Adegoke Femi)[https://github.com/phemmelliot]
-(Adeleye Jeremiah)[https://github.com/debugjerry]
+[David Asamu](https://github.com/phvash)
+[Tolu Fakiyesi](https://github.com/tolufakiyesi)
+[Adegoke Femi](https://github.com/phemmelliot)
+[Adeleye Jeremiah](https://github.com/debugjerry)
