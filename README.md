@@ -14,3 +14,6 @@ The bootcamp cycle lasts for about a month and is divided into 3 stages
 
 ## Projects
 Check out projects made with love by our SoC students
+
+## Contributors
+@phvash
