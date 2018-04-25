@@ -20,4 +20,7 @@ Check out projects made with love by our SoC students
 *  [David Asamu](https://github.com/phvash)
 *  [Tolu Fakiyesi](https://github.com/tolufakiyesi)
 *  [Adegoke Femi](https://github.com/phemmelliot)
-*  [Adeleye Jeremiah](https://github.com/debugjerry)
+*  [Tinu Adeleke](#)
+*  [Dorcas Balogun](https://github.com/debugjerry)
+*  [Ayomide Bakare](https://github.com/debugjerry)
+*  [Ajayi Sunday](https://github.com/debugjerry)
